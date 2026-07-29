@@ -1,4 +1,5 @@
 # 📊 SQL Learning Journey
+> ⭐ **Found this project interesting?** Drop a star — it means a lot and keeps me motivated to build more cool stuff!
 
 This repository documents my hands-on journey learning SQL (MySQL) — from basic table creation to advanced concepts like joins, subqueries, views, stored procedures, and triggers.
 
